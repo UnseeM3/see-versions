@@ -1,0 +1,45 @@
+{
+    "updated_at": "2026-08-16",
+    "store": {
+        "name": "Unsee Store",
+        "url": "https://portal.cfx.re/assets/granted-assets"
+    },
+    "packages": {
+        "see_lib": {
+            "label": "Unsee Lib",
+            "version": "1.0.0",
+            "released_at": "2026-08-16",
+            "changelog": []
+        },
+        "see_admin": {
+            "label": "Unsee Admin",
+            "version": "1.0.0",
+            "released_at": "2026-08-16",
+            "changelog": []
+        },
+        "see_contextmenu": {
+            "label": "Unsee Context Menu",
+            "version": "1.0.0",
+            "released_at": "2026-08-16",
+            "changelog": []
+        },
+        "see_weather": {
+            "label": "Unsee Weather",
+            "version": "1.0.0",
+            "released_at": "2026-08-16",
+            "changelog": []
+        },
+        "see_multichar": {
+            "label": "Unsee Multicharacter",
+            "version": "1.0.0",
+            "released_at": "2026-08-16",
+            "changelog": []
+        },
+        "see_loadingscreen": {
+            "label": "Unsee Loading Screen",
+            "version": "1.0.0",
+            "released_at": "2026-08-16",
+            "changelog": []
+        }
+    }
+}
