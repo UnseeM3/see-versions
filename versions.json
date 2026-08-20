@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-08-16",
+    "updated_at": "2026-08-20",
     "store": {
         "name": "Unsee Store",
         "url": "https://portal.cfx.re/assets/granted-assets"
@@ -40,6 +40,32 @@
             "version": "1.0.0",
             "released_at": "2026-08-16",
             "changelog": []
+        },
+        "see_minigames": {
+            "label": "Unsee Minigames",
+            "version": "1.0.0",
+            "released_at": "2026-08-20",
+            "changelog": [
+                "fix: fetchNui ne laisse plus de rejection non geree",
+                "fix: error boundary React sur le mini-jeu monte",
+                "fix: garde anti-instant mesuree en millisecondes",
+                "feat: moteur de synthese audio pour les sons d interaction",
+                "feat: animation joueur configurable par mini-jeu",
+                "feat: escrow_ignore sur config.lua",
+                "feat: monte le niveau sonore des mini-jeux",
+                "feat: sons du mini-jeu wires",
+                "feat: sons du mini-jeu pattern",
+                "feat: sons du mini-jeu sequence",
+                "feat: socle audio partage et volume pilote par config.js",
+                "perf: sons du lockpick convertis en ogg vorbis (-88%)",
+                "perf: images NUI converties en webp (-90%)",
+                "feat: branche le check de version au boot",
+                "feat: refuse de fonctionner si la ressource est renommee",
+                "fix: rend le focus NUI a l arret de la ressource",
+                "fix: n annule que sa propre barre de progression",
+                "fix: watchdog de timeout independant de la barre de progression",
+                "fix: resolution unique d une partie en cours"
+            ]
         }
     }
 }
